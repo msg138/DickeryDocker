@@ -93,6 +93,7 @@ Eventually will create a Docker image to deploy this, as well as a Compose file 
 * [React](https://github.com/facebook/react) - React used in this project
 * [ReduxJS](https://github.com/reduxjs/redux) - Redux library used in this project
 * [FontAwesome](https://github.com/FortAwesome/Font-Awesome) - Used for icons in this project
+* [Dockerode](https://github.com/apocas/dockerode) - Used for the NodeJS Docker binding (to communicate with docker host)
 
 ## Authors
 
