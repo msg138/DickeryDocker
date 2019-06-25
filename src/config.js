@@ -1,5 +1,5 @@
 // Hostname that the App is being hosted on.
-export const Hostname = 'hiveofthoughts.com';
+export const Hostname = '';
 // Protocol for the app.
 export const Protocol = 'http://';
 // Refresh rate for Container List and Image List (in Milliseconds)

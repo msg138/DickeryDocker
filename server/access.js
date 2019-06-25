@@ -43,15 +43,15 @@ module.exports = {
 
 
     // Hostname / Protocol (essentially a prefix)
-    'Hostname': 'hiveofthoughts.com',
+    'Hostname': '',
     'Protocol': 'http://',
 
     // Used for the database connection
     'Database': {
-        host: 'uteruswater.com',
-        user: 'ziwwjbac_docker',
-        password: 'X5g3m=)+80rc',
-        database: 'ziwwjbac_docker-auth'
+        host: '',
+        user: '',
+        password: '',
+        database: ''
     },
     
     // Table to be used for user data in the database.
