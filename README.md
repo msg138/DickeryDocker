@@ -76,7 +76,14 @@ cd DickeryDocker/server
 node index.js
 ```
 
-9) Either build the React app, (using npm run build), or just run with npm start.
+9) Modify the server name / port in DickeryDocker/public/index.html , this is where the server is located including port,
+```
+<script> 
+  Lemonade.Mirror.connect('example.com:81'); 
+</script>
+```
+
+10) Either build the React app, (using npm run build), or just run with npm start.
 ```
 cd DickerDocker
 npm start
