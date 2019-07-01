@@ -26,7 +26,7 @@ cd DickeryDocker
 
 3) Run basic npm init (To install needed modules)
 ```
-npm init
+npm install
 ```
 
 4) Create Database and Table (this should be a MySQL database),
